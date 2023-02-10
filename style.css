@@ -1,0 +1,13 @@
+.row {
+    height: 40px;
+    align-items: center;
+  }
+  .input-group {
+    width: auto;
+    height: 40px;
+    position: inherit;
+  }
+  
+  .qty {
+    width: 75px;
+  }
